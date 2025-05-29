@@ -1,0 +1,6 @@
+alternatives.log
+bootstrap.log
+dpkg.log
+faillog
+fontconfig.log
+lastlog
